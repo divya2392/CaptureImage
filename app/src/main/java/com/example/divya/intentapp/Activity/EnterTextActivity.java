@@ -27,7 +27,7 @@ import java.io.IOException;
 
 public class EnterTextActivity extends Activity implements View.OnClickListener {
 
-    private static final String APP_PICTURE_DIRECTORY = "/Memeify";
+    private static final String APP_PICTURE_DIRECTORY = "/CaptureImage";
     private static final String FILE_SUFFIX_JPG = ".jpg";
     private static final String HELVETICA_FONT = "Helvetica";
     private static final String IMAGE_URI_KEY = "IMAGE_URI";
