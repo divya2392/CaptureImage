@@ -30,7 +30,7 @@ import java.util.Locale;
 
 public class MainActivity extends Activity implements View.OnClickListener {
 
-    private static final String APP_PICTURE_DIRECTORY = "/Memeify";
+    private static final String APP_PICTURE_DIRECTORY = "/CaptureImage";
     private static final String MIME_TYPE_IMAGE = "image/";
     private static final String FILE_SUFFIX_JPG = ".jpg";
     private static final int TAKE_PHOTO_REQUEST_CODE = 4;
